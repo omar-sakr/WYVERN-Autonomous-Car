@@ -1,7 +1,7 @@
 # WYVERN-Autonomous-Car
 C code for Atmega128
 
-Main: Wyvern.c
+Main: WYVERN.c
 
 IDE: Atmel Studio 6
 
